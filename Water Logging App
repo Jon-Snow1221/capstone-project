@@ -1,0 +1,12 @@
+Water Logging App
+	- An app that helps you track your daily water intake.
+	
+Primary features
+	- Users are able to set a goal for their daily in-take (Ex: 64 oz).
+	- Users are able to set reminders for drinking water throughout the day.
+	- Users can log specific increments of water (8oz, 10oz, 12oz, 16oz, etc).
+	- Users are able to see their water in-take history.
+    	- Info is updated to Health app if user gives permission.
+
+Secondary features
+	- Users will be able to see a progress bar for their daily water in-take.
